@@ -42,14 +42,18 @@ I am a software developer focused on building scalable web platforms, cross-plat
 *(Not: Profilindeki gizli repolardaki çalışmalarını da yansıtmak için GitHub ayarlarından "Private contributions" özelliğini açtığından emin ol)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenSonmez35&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Eren's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenSonmez35&theme=radium&hide_border=true" alt="Eren's GitHub Streak" />
+  
+[![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErenSonmez35&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ErenSonmez35)
+
+[![Eren's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErenSonmez35&theme=radium&hide_border=true)](https://github.com/ErenSonmez35)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenSonmez35&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenSonmez35&layout=compact&theme=radium&hide_border=true)](https://github.com/ErenSonmez35)
+
+</div>
 ---
 
 ### 📫 Let's Connect
