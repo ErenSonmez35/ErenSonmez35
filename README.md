@@ -1,87 +1,57 @@
-<!-- Başlangıç ve Animasyonlu Daktilo -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Eren Sönmez!
-</h1>
+# Hi there, I'm Eren Sönmez 👋
 
-<p align="center">
-  <a href="https://github.com/sonmezeren85">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Web+%26+Mobile+Developer;Tutkulu+Web+ve+Mobil+Geliştirici" alt="Typing SVG" />
-  </a>
-</p>
+### 👨‍💻 Passionate Web & Mobile Developer
 
-<p align="center">
-  <a href="https://github.com/sonmezeren85">
-    <img src="https://komarev.com/ghpvc/?username=sonmezeren85&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+I am a software developer focused on building scalable web platforms, cross-platform mobile applications, and micro-SaaS solutions. I enjoy taking a project from an idea all the way to a self-hosted production environment.
+
+### 🚀 What I'm Currently Working On
+- **Full-Stack & Micro-SaaS:** Architecting multi-tenant web platforms and automated tools using React, Python, and Node.js.
+- **Cross-Platform Mobile:** Crafting real-time mobile applications with Flutter and Socket.io.
+- **DevOps & Self-Hosting:** Managing containerized deployments, reverse proxies, and CI/CD pipelines via Docker, Nginx, and Coolify on Debian environments.
+- **Continuous Learning:** Deepening my knowledge in **.NET, C#**, and enterprise backend database architectures.
+- **Game Development:** Exploring procedural generation, 2D pixel art mechanics, and server plugins in my free time.
 
 ---
 
-### 🌍 About Me | Hakkımda
+### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🇬🇧 English</h4>
-      <p align="center">
-        I'm a developer who is passionate about building seamless and efficient web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Whether it's crafting a responsive frontend, developing a robust backend, or building a cross-platform mobile app, I love working across the entire stack.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🇹🇷 Türkçe</h4>
-      <p align="center">
-        Web ve mobil uygulamalar geliştirme konusunda tutkulu bir yazılımcıyım. Karmaşık problemleri basit, şık ve sezgisel çözümlere dönüştürmekten keyif alıyorum. İster duyarlı (responsive) bir arayüz, ister güçlü bir arka uç (backend), isterse de çapraz platform bir mobil uygulama olsun, yazılım mimarisinin her katmanında çalışmayı seviyorum.
-      </p>
-    </td>
-  </tr>
-</table>
+**Frontend & Mobile:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<!-- Geliştirici figürü resmini (resimdeki kesit) About Me altına yerleştir -->
-<p align="center">
-  <img src="eren-dev-figure.png" width="400px" alt="Eren Sönmez Developer Figure" />
-</p>
+**Backend & Databases:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%23SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Infrastructure:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 💻 Tech Stack | Kullandığım Teknolojiler
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
----
-
-### 📊 GitHub Stats | GitHub İstatistiklerim
+*(Not: Profilindeki gizli repolardaki çalışmalarını da yansıtmak için GitHub ayarlarından "Private contributions" özelliğini açtığından emin ol)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonmezeren85&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonmezeren85&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenSonmez35&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Eren's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenSonmez35&theme=radium&hide_border=true" alt="Eren's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonmezeren85&theme=nord&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenSonmez35&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🤝 Connect with me | Bana Ulaşın
+### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/[LinkedInKullaniciAdin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[TwitterKullaniciAdin]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+- **Email:** sonmezeren85@gmail.com
